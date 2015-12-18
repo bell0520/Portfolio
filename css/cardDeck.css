@@ -1,0 +1,55 @@
+.navbar{
+    background-color: #89bdd3;
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.card-deck-wrapper{
+    background-color: #e3e3e3;
+    padding: 1em;
+}
+
+.card {
+    width: 352px;
+    padding: 1em 1em 1em 1em;
+}
+
+.card-title{
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+.card-img-top{
+    width: 100%;
+    height: auto;
+}
+
+.cards1{
+    clear: right;
+}
+
+.btn {
+    background-color: #9ad3de;
+    border: none;
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 50px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    background-color: #89bdd3;
+}
