@@ -1,0 +1,61 @@
+.navbar{
+    background-color: #89bdd3;
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+label {
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+    padding: 1em;
+}
+
+input{
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+form {
+    padding: 1em;
+}
+
+.form-control {
+    padding: 1em;
+}
+
+.textarea{
+ padding: 1em 0 1em 0;    
+}
+
+textarea {
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    -webkit-border-radius: 3px; 
+    overflow: hidden;
+}
+
+.messageclear {
+    clear: both;
+}
+
+.btn {
+    background-color: #9ad3de;
+    border: none;
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+body {
+    background-color: #e3e3e3;
+    margin-bottom: 50px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    background-color: #89bdd3;
+}
