@@ -1,0 +1,71 @@
+/*color scheme description*/
+/*I chose a color palette that consists of 3 colours + white and black. The palette is split among two colours, teal and grey. The colours used are:
+
+#89bdd3 - Dark teal
+#9ad3de - Light teal
+#e3e3e3 - Light grey
+*/
+
+.navbar{
+    background-color: #89bdd3;
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    padding: 0 1em 0 1em;
+}
+
+ul li {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.bg1{
+    vertical-align: top;
+    width: 100%;
+    display: inline-block;
+    background-color: #9ad3de;
+}
+
+.bg2{
+    vertical-align: top;
+    display: inline-block;
+    background-color: #e3e3e3;
+    height: auto;
+}
+
+h3 {
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+    padding: 1em;
+    height: auto;
+}
+
+h4 {
+    font-family: 'Roboto Slab', 'Times New Roman', serif;
+    padding: 1em;
+    height: auto;
+}
+
+img{
+    display: block;
+    width: 80%;
+    height: auto;
+    padding 1em;
+}
+
+body {
+    background-color: #e3e3e3;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    background-color: #89bdd3;
+}
+
+div {
+    padding: 0;
+}
